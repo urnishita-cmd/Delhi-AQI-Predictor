@@ -1,0 +1,10 @@
+Metric,Value
+MAE,30.53200566324578
+RMSE,41.30522863991433
+R2,0.847662163439472
+Persistence Baseline MAE,31.606260296540363
+Training Observations,2424
+Testing Observations,607
+First Test Date,2022-05-04
+Last Test Date,2023-12-31
+Valid Model Rows,3031
